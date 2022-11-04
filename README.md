@@ -22,7 +22,7 @@ GO111MODULE=on go get -u github.com/bradleyfalzon/ghinstallation/v2
 # GitHub Example
 
 ```go
-import "github.com/bradleyfalzon/ghinstallation/v2"
+import "github.com/bradleyfalzon/ghinstallation/v3"
 
 func main() {
     // Shared transport to reuse TCP connections.
